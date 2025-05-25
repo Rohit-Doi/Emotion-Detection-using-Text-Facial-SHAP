@@ -1,0 +1,6 @@
+2025-05-23 09:34:49,478 - ERROR - Expected 7 SHAP value arrays, got 1
+2025-05-23 09:34:49,478 - ERROR - SHAP visualization failed: Incorrect number of SHAP value arrays
+2025-05-23 09:43:05,694 - ERROR - Expected 7 SHAP value arrays, got 1
+2025-05-23 09:43:05,695 - ERROR - SHAP visualization failed: Incorrect number of SHAP value arrays
+2025-05-23 09:48:49,801 - ERROR - Expected 7 SHAP value arrays, got 1
+2025-05-23 09:48:49,802 - ERROR - SHAP visualization failed: Incorrect number of SHAP value arrays

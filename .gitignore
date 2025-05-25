@@ -1,0 +1,1 @@
+venv/ tracker.db app_errors.log models/ data/ pycache/ *.pyc *.pyo *.pyd .vscode/ .idea/ .DS_Store Thumbs.db .ipynb_checkpoints/ test-clone/
