@@ -1,10 +1,6 @@
 # Emotion-Detection-using-Text-Facial-SHAP
 
-<p align="center">
-  <img src="images/homepage.png" alt="App Homepage" width="600"/>
-  <br>
-  <em>App Homepage Screenshot</em>
-</p>
+
 
 A multimodal emotion detection application using DistilBERT for text emotion classification and DeepFace for facial emotion detection, with SHAP-based explainability for text predictions. Supports eight emotions: anger, disgust, fear, joy, neutral, sadness, shame, and surprise.
 
@@ -20,20 +16,10 @@ This project combines natural language processing (NLP) and computer vision to d
 ## Features
 
 ### Text Emotion Detection
-<p align="center">
-  <img src="images/text_emotion.png" alt="Text Emotion Detection" width="600"/>
-  <br>
-  <em>Text Emotion Detection Interface</em>
-</p>
 
 Enter text to predict emotions and view SHAP visualizations explaining the model's predictions.
 
 ### Facial Emotion Detection
-<p align="center">
-  <img src="images/facial_emotion.png" alt="Facial Emotion Detection" width="600"/>
-  <br>
-  <em>Facial Emotion Detection Interface</em>
-</p>
 
 Upload a JPG/PNG image to detect emotions using DeepFace.
 
